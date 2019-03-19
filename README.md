@@ -1,6 +1,7 @@
-#### Python 实现Word2Vec
-分别实现了一下几种：
-- 基于Hierarchical Softmax的Skip-Gram模型
-- 基于Hierarchical Softmax的CBOW模型
-- 基于Negative Sampling的Skip-Gram模型
-- 基于Negative Sampling的CBOW模型
+word2vec/
+#### Python 瀹炵幇Word2Vec
+鍒嗗埆瀹炵幇浜嗕竴涓嬪嚑绉嶏細
+- 鍩轰簬Hierarchical Softmax鐨凷kip-Gram妯″瀷
+- 鍩轰簬Hierarchical Softmax鐨凜BOW妯″瀷
+- 鍩轰簬Negative Sampling鐨凷kip-Gram妯″瀷
+- 鍩轰簬Negative Sampling鐨凜BOW妯″瀷
